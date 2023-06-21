@@ -1,0 +1,39 @@
+.homeuser{
+    height: auto;
+    width:max-content;
+    box-shadow: 0 2px 8px 0 rgba(128, 125, 125, 0.2);
+    margin-left: 2%;
+    border: 10px solid white;
+}
+
+table {
+    border-collapse: collapse;
+  }
+  
+th, td {
+    padding:10px 12px;
+    text-align: center;
+  }
+
+.table{
+    color: rgb(70, 124, 138);
+}
+
+.ved{
+    display: block;
+}
+
+.viewImage{
+    height:25px;
+    width: 25px;
+}
+
+.edituser{
+    height:25px;
+    width: 25px;
+}
+
+.deleteUser{
+    height:25px;
+    width: 25px;
+}

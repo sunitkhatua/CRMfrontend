@@ -1,0 +1,31 @@
+.btnSubmit1{
+    margin-left: 50%;
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    cursor: pointer;
+    padding: 10px 10px;
+    border-radius: 8px;
+    font-size: large;
+}
+.btnSubmit1:hover{
+    background-color: blue;
+    color: white;
+}
+
+.btnSubmit2{
+    text-decoration: none;
+    margin-left: 10px;
+    border: 2px solid red;
+    color:red;
+    background-color:white;
+    padding: 10px 10px;
+    border-radius: 8px;
+    font-size: large;
+    cursor: pointer;
+}
+
+.btnSubmit2:hover{
+    background-color: red;
+    color: white;
+}

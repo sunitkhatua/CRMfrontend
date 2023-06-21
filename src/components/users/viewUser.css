@@ -1,0 +1,43 @@
+.container3{
+    margin-left: 3%;
+}
+
+.viewcard{
+    height: auto;
+    width:max-content;
+    box-shadow: 0 2px 8px 0 rgba(12, 12, 12, 0.2);
+    margin-left: 2%;
+    border: 10px solid white;
+    margin-left: 10%;
+}
+
+li{
+    border-collapse: collapse;
+    border: 2px solid rgb(12, 85, 194);
+    list-style: none;
+    height: auto;
+    width: auto;
+    margin: 10px 
+}
+
+.Back{
+    text-decoration: none;
+    color: black;
+}
+
+.Back:hover{
+    color:white;
+}
+
+.btnBack{
+    padding: 6px;
+    background-color: white;
+    border: 2px solid rgb(76, 76, 143);
+    cursor: pointer;
+    margin-left: 40%;
+    margin-top: 1%;
+}
+
+.btnBack:hover{
+    background-color: blue;
+}
